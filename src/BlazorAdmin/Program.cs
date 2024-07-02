@@ -1,4 +1,5 @@
-﻿using System;
+﻿// change : test CD with AZ WebAPP
+using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 using BlazorAdmin;
